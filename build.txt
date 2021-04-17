@@ -1,0 +1,3 @@
+displayName = LoRBGM(don't download it!)
+author = 蛤
+version = 0.1
