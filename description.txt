@@ -1,1 +1,28 @@
-Don't download it!
+Replace the BGM of boss fights with the BGM in LoR.
+The progress of BGM will change according to the progress of fight.
+Currently contains:
+-Lobby BGM
+-Victory BGM
+-All existing floors BGM
+-Realization battle BGM (Angela and Roland)
+-Reverberation Ensemble battle BGM
+-Reverberation Ensemble Distortion battle BGM
+
+P.S.
+-I was really disappointed with this ending.
+
+
+将Boss战的BGM替换为废墟图书馆的BGM。
+BGM种类会根据战况改变。
+目前包含：
+-大厅BGM
+-胜利结算BGM
+-现有的所有楼层BGM
+-楼层解放战BGM
+-残响乐团BGM
+-扭曲残响乐团BGM
+
+P.S.
+-麻了，我是傻逼
+
+
